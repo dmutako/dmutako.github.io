@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	font-family: Bradley Hand ITC;
+}
+h1{
+	font-size: 42px;
+}
+h2{
+	font-size: 32px;
+}
+#header{
+	background-color: #f44268;
+	padding: 80px;
+	margin-bottom: 50px;
+}
+#header h1, #header 2{
+	color: white;
+}
+#about_content img{
+	width: 200px;
+	border-radius: 100px;
+}
+a{
+	color: #f44141;
+	text-decoration: none;
+}
+a:hover{
+	color: #c141f4;
+}
